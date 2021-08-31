@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModelConverter", "ModelConverter\ModelConverter.vcxproj", "{B6B89457-A2EC-4B9C-B27A-9912AEED8F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B89457-A2EC-4B9C-B27A-9912AEED8F70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6B89457-A2EC-4B9C-B27A-9912AEED8F70}.Debug|Win32.Build.0 = Debug|Win32
+		{B6B89457-A2EC-4B9C-B27A-9912AEED8F70}.Release|Win32.ActiveCfg = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F02DA5-7FF2-4396-8CE0-472C67998684}
+	EndGlobalSection
+EndGlobal
